@@ -1,2 +1,3 @@
 # sawn-lumber-dataset
-There are three types of sawn lumber,i.e, rubber wood, pine and Chilean pine.
+There are three types of sawn lumber,i.e, rubber limber, pine and Chilean pine limber.
+rubber lumber dataset contains 
