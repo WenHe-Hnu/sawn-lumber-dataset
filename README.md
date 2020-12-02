@@ -16,4 +16,10 @@ rubber lumber dataset5 [智利松1](https://pan.baidu.com/s/1Bpjpd2oRE5gd1u1yBpj
 )(提取码：e215) contains 5834 images.(2.99G)
 
 rubber lumber dataset6 [智利松2](https://pan.baidu.com/s/1MPDEbfP-6gbm8exDS5XN8Q 
-)(提取码：r16z) contains 5787 images.(3.26G)  
+)(提取码：r16z) contains 5787 images.(3.26G) 
+
+pine lumber dataset7 [pine_with_xml](链接：https://pan.baidu.com/s/1emnaDHZwjYtA8dDe_-ZiKg 
+)(提取码：9v0r)
+
+rubber lumber dataset8 [rubber_with_xml](链接：https://pan.baidu.com/s/103MPc8-_7aULfMQEgksosQ
+)(提取码：t6as)
